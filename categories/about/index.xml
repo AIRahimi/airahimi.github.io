@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on </title>
+    <link>/categories/about/</link>
+    <description>Recent content in About on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 05 Feb 2018 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 05 Feb 2018 22:55:05 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Morbi ut felis sit amet purus pretium cursus. Quisque ac pulvinar tortor. Pellentesque eleifend malesuada tellus, fermentum hendrerit arcu mattis ut. Ut vestibulum aliquet nibh non efficitur. Pellentesque eleifend lacinia mauris, eget viverra arcu viverra sit amet. In dictum dapibus nunc. Curabitur at volutpat sem, id ultrices est. Donec varius.
+Hamid Rahimi.</description>
+    </item>
+    
+  </channel>
+</rss>
