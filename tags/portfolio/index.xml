@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on </title>
-    <link>/tags/portfolio/</link>
+    <link>https://airahimi.no/tags/portfolio/</link>
     <description>Recent content in Portfolio on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 06 Feb 2018 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://airahimi.no/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Portfolio</title>
-      <link>/portfolio/</link>
+      <link>https://airahimi.no/portfolio/</link>
       <pubDate>Tue, 06 Feb 2018 22:55:05 -0400</pubDate>
       
-      <guid>/portfolio/</guid>
+      <guid>https://airahimi.no/portfolio/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in ornare urna. Integer feugiat malesuada metus, sit amet pellentesque ligula tempor eu. Morbi pretium vitae purus sit amet luctus. In at nibh feugiat, suscipit mi non, tristique velit. Nam malesuada ligula eu velit fermentum dictum. Mauris gravida lorem ut risus consequat, quis blandit purus finibus. Donec commodo, ipsum eu bibendum vulputate, nunc justo semper felis, vel rutrum quam leo ut nisl.</description>
     </item>
     

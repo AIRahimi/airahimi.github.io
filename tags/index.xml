@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>https://airahimi.no/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 05 Feb 2018 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://airahimi.no/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/tags/about/</link>
+      <link>https://airahimi.no/tags/about/</link>
       <pubDate>Mon, 05 Feb 2018 22:55:05 -0400</pubDate>
       
-      <guid>/tags/about/</guid>
+      <guid>https://airahimi.no/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Airahimi</title>
-      <link>/tags/airahimi/</link>
+      <link>https://airahimi.no/tags/airahimi/</link>
       <pubDate>Tue, 06 Feb 2018 22:55:05 -0400</pubDate>
       
-      <guid>/tags/airahimi/</guid>
+      <guid>https://airahimi.no/tags/airahimi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Belson</title>
-      <link>/tags/belson/</link>
+      <link>https://airahimi.no/tags/belson/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/tags/belson/</guid>
+      <guid>https://airahimi.no/tags/belson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ceo</title>
-      <link>/tags/ceo/</link>
+      <link>https://airahimi.no/tags/ceo/</link>
       <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/tags/ceo/</guid>
+      <guid>https://airahimi.no/tags/ceo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gavin</title>
-      <link>/tags/gavin/</link>
+      <link>https://airahimi.no/tags/gavin/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/tags/gavin/</guid>
+      <guid>https://airahimi.no/tags/gavin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware</title>
-      <link>/tags/hardware/</link>
+      <link>https://airahimi.no/tags/hardware/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>/tags/hardware/</guid>
+      <guid>https://airahimi.no/tags/hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hooli</title>
-      <link>/tags/hooli/</link>
+      <link>https://airahimi.no/tags/hooli/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>/tags/hooli/</guid>
+      <guid>https://airahimi.no/tags/hooli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>/tags/java/</link>
+      <link>https://airahimi.no/tags/java/</link>
       <pubDate>Tue, 06 Feb 2018 22:55:05 -0400</pubDate>
       
-      <guid>/tags/java/</guid>
+      <guid>https://airahimi.no/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>/tags/portfolio/</link>
+      <link>https://airahimi.no/tags/portfolio/</link>
       <pubDate>Tue, 06 Feb 2018 22:55:05 -0400</pubDate>
       
-      <guid>/tags/portfolio/</guid>
+      <guid>https://airahimi.no/tags/portfolio/</guid>
       <description></description>
     </item>
     
